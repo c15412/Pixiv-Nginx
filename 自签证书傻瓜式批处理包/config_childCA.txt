@@ -197,7 +197,9 @@ DNS.0183	 = 	*.cosphoria.co
 DNS.0184	 = 	medium.com
 DNS.0185	 = 	*.medium.com
 DNS.0186	 = 	mod.io
-DNS.0187	 = 	*.mod.io	
+DNS.0187	 = 	*.mod.io
+DNS.0188	 = 	pawchive.pw
+DNS.0189	 = 	*.pawchive.pw
 			
 			
 [ v3_req ]			
